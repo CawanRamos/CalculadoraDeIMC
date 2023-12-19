@@ -1,4 +1,4 @@
-<h1>Projeto Calculadora de IMCh1>
+<h1>Projeto Calculadora de IMCM</h1>
 
 <p>Este projeto foi um desafio do Stage 5 da formação Explorer da Rocketseat</p>
 
