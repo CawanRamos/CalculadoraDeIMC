@@ -15,7 +15,7 @@ Realizei o desenvolvimento do projeto com as seguintes tecnologias:
 ## 📝 Projeto
 
 - Este projeto tem como intuito calcular o IMC de uma pessoa adulta, ele foi desenvolvido ao decorrer do curso mas realizei a adição de algumas funcionalidades por conta própria, são elas: Retornar os inputs vazios após realizar o calculo de IMC, mostrar sua          classificação no IMC e não aceitar números negativos;
-- Você pode acessar meu projeto finalizado pelo link.
+- Você pode acessar meu projeto finalizado pelo link: https://cawanramos.github.io/CalculadoraDeIMC/
 
 ## 🎨 Layout 
 
