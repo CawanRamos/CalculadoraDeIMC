@@ -14,12 +14,11 @@ Realizei o desenvolvimento do projeto com as seguintes tecnologias:
 
 ## 📝 Projeto
 
-    - Este projeto tem como intuito calcular o IMC de uma pessoa adulta, ele foi desenvolvido ao decorrer do curso mas realizei a adição de algumas funcionalidades por conta própria, são elas: Retornar os inputs vazios após realizar o calculo de IMC, mostrar sua          classificação no IMC e não aceitar números negativos;
-    - Você pode acessar meu projeto finalizado pelo link.
+- Este projeto tem como intuito calcular o IMC de uma pessoa adulta, ele foi desenvolvido ao decorrer do curso mas realizei a adição de algumas funcionalidades por conta própria, são elas: Retornar os inputs vazios após realizar o calculo de IMC, mostrar sua          classificação no IMC e não aceitar números negativos;
+- Você pode acessar meu projeto finalizado pelo link.
 
 ## 🎨 Layout 
-    
 
-    - O layout utilizado para desenvolvimento do projeto foi fornecido pela Rocketseat; 
-    - Você pode acessar pelo link https://www.figma.com/file/kZjq2QEAniKKxnLgOSIOFe/IMC-Copy?fuid=849470271837717694.
+- O layout utilizado para desenvolvimento do projeto foi fornecido pela Rocketseat; 
+- Você pode acessar pelo link https://www.figma.com/file/kZjq2QEAniKKxnLgOSIOFe/IMC-Copy?fuid=849470271837717694.
 
